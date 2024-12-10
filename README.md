@@ -1,5 +1,5 @@
-Spotify Music Analysis Dashboard
-This repository contains a Power BI project for analyzing Spotify music data. The dashboard provides insights into streaming trends, track popularity, and artist performance.
+##Spotify Music Analysis Dashboard
+#This repository contains a Power BI project for analyzing Spotify music data. The dashboard provides insights into streaming trends, track popularity, and artist performance.
 
 :tada: Overview
 The Spotify Music Analysis Dashboard is an interactive tool designed to:
